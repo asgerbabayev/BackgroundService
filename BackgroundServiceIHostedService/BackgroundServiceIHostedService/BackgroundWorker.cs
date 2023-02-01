@@ -43,6 +43,6 @@ record MailData(string To, string Subject, string Body);
 
 class EmailConfig
 {
-    public static string email = "asgerbabayev@hotmail.com";
-    public static string password = "rarnto.com";
+    public static string email = "name.surname@hotmail.com";
+    public static string password = "12345678";
 }
